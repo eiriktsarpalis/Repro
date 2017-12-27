@@ -12,6 +12,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Repro", "Repro\Repro.fsproj
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Repro2", "Repro2\Repro2.fsproj", "{DA95F6F4-0AAC-48DC-B2BE-8BA613FAFF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro3", "Repro3\Repro3.csproj", "{5BDEE198-97E5-4370-A18B-0A7CBCF624AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{DA95F6F4-0AAC-48DC-B2BE-8BA613FAFF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA95F6F4-0AAC-48DC-B2BE-8BA613FAFF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA95F6F4-0AAC-48DC-B2BE-8BA613FAFF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDEE198-97E5-4370-A18B-0A7CBCF624AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDEE198-97E5-4370-A18B-0A7CBCF624AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDEE198-97E5-4370-A18B-0A7CBCF624AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDEE198-97E5-4370-A18B-0A7CBCF624AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
