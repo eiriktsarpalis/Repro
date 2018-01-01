@@ -1,7 +1,3 @@
 module Test
 
-open Argu
-
-let test() = [1;2]
-
-let foo = typeof<Argu.IArgParserTemplate>
+let test() = typeof<Argu.IArgParserTemplate>
