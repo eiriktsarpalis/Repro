@@ -1,5 +1,7 @@
 module Test
 
-open System.Configuration
+open Argu
 
-let test() = System.Configuration.ConfigurationManager.AppSettings.["foobar"]
+let test() = [1;2]
+
+let foo = typeof<Argu.IArgParserTemplate>
