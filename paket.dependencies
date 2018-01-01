@@ -1,5 +1,4 @@
-storage: none
 source https://api.nuget.org/v3/index.json
 
-nuget FSharp.Core >= 4.2 lowest_matching: true
+nuget FSharp.Core
 nuget Argu
