@@ -1,0 +1,6 @@
+﻿type project
+id Library
+version 1.0
+authors Eirik
+description foo
+licenseUrl http://opensource.org/licenses/MIT
