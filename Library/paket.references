@@ -1,5 +1,0 @@
-﻿FSharp.Core
-System.ValueTuple
-
-Microsoft.Azure.DocumentDB.Core
-Microsoft.Azure.DocumentDB.ChangefeedProcessor

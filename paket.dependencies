@@ -1,7 +1,0 @@
-source https://api.nuget.org/v3/index.json
-
-nuget FSharp.Core
-nuget System.ValueTuple
-
-nuget Microsoft.Azure.DocumentDB.Core framework: netstandard2.0
-nuget Microsoft.Azure.DocumentDB.ChangefeedProcessor framework: netstandard2.0
