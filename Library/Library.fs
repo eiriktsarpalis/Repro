@@ -1,5 +1,7 @@
 namespace Library
 
-module Say =
-    let hello name =
-        printfn "Hello %s" name
+open Microsoft.Azure.Documents
+
+module Test =
+    
+    let printConsistencyLevel(level : ConsistencyLevel) = printfn "%A" level

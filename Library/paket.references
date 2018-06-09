@@ -1,3 +1,5 @@
-﻿FSharp.Core framework:netstandard2.0
-group NetClassic
-  FSharp.Core framework:net45
+﻿FSharp.Core
+System.ValueTuple
+
+Microsoft.Azure.DocumentDB.Core
+Microsoft.Azure.DocumentDB.ChangefeedProcessor
