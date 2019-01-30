@@ -1,5 +1,4 @@
 namespace Library
 
 module Say =
-    let hello name =
-        printfn "Hello %s" name
+    let hello name = typeof<Microsoft.Azure.Documents.Client.DocumentClient>
